@@ -3,7 +3,7 @@
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
 ul {
- list-style: none;
+//  list-style: none;
  padding: 0;
 }
 
@@ -22,16 +22,14 @@ h1 {
   margin-bottom: 8px;
 }
 
-.link  {
+.btn-secondary {
   background-color: rgb(111, 194, 194);
-  // border: none  !important;
-  // display: inline-block;
-  // color: pink;
+  border: none;
 }
 
 
-// a  {
-//   text-decoration:  none;
-//   margin-top: 80px;
-//   color: aqua;
-// }
+a  {
+  text-decoration: none;
+  margin-top: 80px;
+  font-size: 44px !important;
+}
